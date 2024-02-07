@@ -1,6 +1,6 @@
-# furniture_app
+# This is furniture_app
 
-A new Flutter project.
+This is a simple Application where you can view and purchase Furniture.
 
 ## Getting Started
 
